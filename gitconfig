@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fsimonetti1994@hmail.com
+	name = francesco simonetti
